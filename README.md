@@ -1,4 +1,4 @@
-# Python-Oops
+# Python-Oops example code
 class Person:
     def setname(self,name):
         self.name=name
